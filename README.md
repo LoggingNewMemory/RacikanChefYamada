@@ -1,9 +1,4 @@
-Ver 1.5 (Amelia)
-
-Channelog:
-- Remove MVast
-- Remove Unnecessary Module
-- Support KSU & Magisk
+Racikan Chef Yamada
 
 Installation:
 - Unzip
